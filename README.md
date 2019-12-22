@@ -1,6 +1,6 @@
 # SuperMagic Cube
 
-Credits
+Credits:
 
 Chiara Buoncristiani
 Nicolas Corsini
